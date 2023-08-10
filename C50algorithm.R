@@ -66,9 +66,8 @@ CrossTable(testData$Species == predict(dtModel, testData))
 #How did the model do? 
 #TASK: What percent of cases were correctly classified?
 
-##Roberto -- I btained an accuracy of 0.9333333 (or approximately 93.33%)
-#which means that our decision tree model (dtModel) correctly predicted the species of the flowers in the test data
-#for about 93.33% of the observations.
+##Roberto's comment -- I obtained an accuracy of 0.9333333
+#which means that our decision tree model correctly predicted the species of the flowers in the test data for about 93.33% of the observations.
 
 
 
