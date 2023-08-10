@@ -58,4 +58,4 @@ table(result$cluster,iris.class)
 #TASK: Accuracy = number of correctly classified/(total classified) = ?
 #i.e our model has achieved ?% accuracy!
 
-## Roberto's comment -- 133/150=0.887 *100 = 88.7% accuracy
+### 133/150 = 0.887 *100 = 88.7% accuracy
