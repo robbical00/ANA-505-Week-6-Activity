@@ -63,11 +63,10 @@ tab
 #How did the model do?
 #What is the accuracy rate?
 
-## Roberto:the misclassification rate calculated is approximately 0.02666667 or 2.67%. 
+### The misclassification rate calculated is approximately 0.0267 or 2.67%. 
 #This means that the model misclassified around 2.67% of the total observations.
-#To calculate the accuracy rate, you can simply subtract the misclassification rate from 1:
-#Accuracy Rate = 1 - Misclassification Rate
-#Accuracy Rate = 1 - 0.02666667 = 0.97333333 or 97.33%
-#This indicates that the model has an accuracy of approximately 97.33%, meaning that it correctly classified about 97.33% of the total observations. In other words, the model performed quite well with a high accuracy rate.
+#To calculate the accuracy rate --> Accuracy Rate = 1 - Misclassification Rate
+#Accuracy Rate = 1 - 0.02666667 = 0.97333 or 97.33%
+#The model has an accuracy of approximately 97.33%, meaning that it correctly classified about 97.33% of the total observations.
 
 
