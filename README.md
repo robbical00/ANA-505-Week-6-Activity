@@ -2,7 +2,7 @@
 Week 6 Activity - Comparing accuracy rate
 
 
-SVM accuracy: 97.33%
+SVM accuracy: 97.33% --> best model
 
 K Means accuracy: 88.7%
 
